@@ -22,11 +22,18 @@
         components:{
             Container, Header, Aside,  Main
         },
+        mounted(){
+            this.getMenuList()
+        },
         methods:{
             // 退出登录
             logout(){
                 window.sessionStorage.clear();
                 this.$router.push('/login')
+            },
+            async getMenuList(){
+                const data = await this.$http.get('menus');
+                console.log(data.data.data)
             }
         }
     }
