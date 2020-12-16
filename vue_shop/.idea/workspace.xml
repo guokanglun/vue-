@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="beea985f-93f9-4aee-9abd-5b996b531b9d" name="Default Changelist" comment="" />
+    <list default="true" id="beea985f-93f9-4aee-9abd-5b996b531b9d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../vue_server/cheese.log" beforeDir="false" afterPath="$PROJECT_DIR$/../vue_server/cheese.log" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +71,7 @@
       <workItem from="1608000799137" duration="1742000" />
       <workItem from="1608003833787" duration="11806000" />
       <workItem from="1608020386563" duration="15314000" />
+      <workItem from="1608087706275" duration="19470000" />
     </task>
     <servers />
   </component>
