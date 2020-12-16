@@ -12,8 +12,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="XSLT Stylesheet" />
-        <option value="CSS File" />
         <option value="Vue Single File Component" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -68,7 +68,7 @@
       <workItem from="1607942170693" duration="2279000" />
       <workItem from="1608000799137" duration="1742000" />
       <workItem from="1608003833787" duration="11806000" />
-      <workItem from="1608020386563" duration="494000" />
+      <workItem from="1608020386563" duration="15314000" />
     </task>
     <servers />
   </component>
