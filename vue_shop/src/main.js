@@ -21,6 +21,11 @@ axios.interceptors.request.use(config=>{
 Vue.prototype.$http = axios;
 
 
+// 树状表格
+import ZkTable from 'vue-table-with-tree-grid'
+Vue.component(ZkTable.name, ZkTable);
+
+
 Vue.config.productionTip = false;
 
 new Vue({

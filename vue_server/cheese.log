@@ -339,3 +339,30 @@
 [2020-12-16T21:41:11.242] [DEBUG] cheese - admin
 [2020-12-16T21:41:11.246] [DEBUG] cheese - null
 [2020-12-16T21:41:11.246] [DEBUG] cheese - null
+[2020-12-17T11:43:17.051] [DEBUG] cheese - login => username:admin,password:123456
+[2020-12-17T11:43:17.053] [DEBUG] cheese - admin
+[2020-12-17T11:43:17.163] [DEBUG] cheese - null
+[2020-12-17T11:43:17.164] [DEBUG] cheese - null
+[2020-12-17T15:53:00.511] [DEBUG] cheese - null
+[2020-12-17T15:53:11.813] [DEBUG] cheese - null
+[2020-12-17T15:54:13.886] [DEBUG] cheese - null
+[2020-12-17T15:54:51.911] [DEBUG] cheese - { inspect: [Function: inspect] }
+[2020-12-17T15:54:56.964] [DEBUG] cheese - { inspect: [Function: inspect] }
+[2020-12-17T15:55:59.478] [DEBUG] cheese - null
+[2020-12-17T15:56:47.813] [DEBUG] cheese - null
+[2020-12-17T16:03:50.017] [DEBUG] cheese - null
+[2020-12-17T16:03:52.225] [DEBUG] cheese - null
+[2020-12-17T16:16:35.142] [DEBUG] cheese - null
+[2020-12-17T16:16:39.312] [DEBUG] cheese - null
+[2020-12-17T17:24:25.153] [DEBUG] cheese - null
+[2020-12-17T17:24:26.726] [DEBUG] cheese - null
+[2020-12-17T17:24:27.829] [DEBUG] cheese - null
+[2020-12-17T17:24:28.340] [DEBUG] cheese - null
+[2020-12-17T17:24:28.894] [DEBUG] cheese - null
+[2020-12-17T17:24:29.357] [DEBUG] cheese - null
+[2020-12-17T17:24:30.381] [DEBUG] cheese - null
+[2020-12-17T17:24:31.285] [DEBUG] cheese - null
+[2020-12-18T10:07:23.663] [DEBUG] cheese - login => username:admin,password:123456
+[2020-12-18T10:07:23.664] [DEBUG] cheese - admin
+[2020-12-18T10:07:23.825] [DEBUG] cheese - null
+[2020-12-18T10:07:23.826] [DEBUG] cheese - null

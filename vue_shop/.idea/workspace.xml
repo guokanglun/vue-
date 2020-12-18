@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="beea985f-93f9-4aee-9abd-5b996b531b9d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../vue_server/cheese.log" beforeDir="false" afterPath="$PROJECT_DIR$/../vue_server/cheese.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../随堂笔记/01 项目描述及开发流程.md" beforeDir="false" afterPath="$PROJECT_DIR$/../随堂笔记/01 项目描述及开发流程.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../随堂笔记/02 element-ui.md" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +30,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../demo_elementui" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="D:\360ruanjian\WebStorm 2019.2.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
@@ -73,6 +75,8 @@
       <workItem from="1608020386563" duration="15314000" />
       <workItem from="1608087706275" duration="22187000" />
       <workItem from="1608174480203" duration="20839000" />
+      <workItem from="1608256875844" duration="858000" />
+      <workItem from="1608264443442" duration="25709000" />
     </task>
     <servers />
   </component>
